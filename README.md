@@ -1,4 +1,4 @@
-The GPUGO project provides the Python source code to implement **a GPU-based global optimization method** to enclose the guaranteed global minimum of 10 multimodal benchmark test functions. The method and the test functions are detailed in the [arXiv preprint](https://arxiv.org/abs/2507.01770). 
+The GPUGO project provides the Python source code to implement **a GPU-based global optimization method** to enclose the guaranteed global minimum of 11 benchmark test functions. The method and the test functions are detailed in the [arXiv preprint](https://arxiv.org/abs/2507.01770). 
 
 The GPUGO project is authored by [Qihang Shan](https://www.linkedin.com/in/qihang-shan-487615227), [Guanglu Zhang](https://www.researchgate.net/profile/Guanglu-Zhang), and [Jonathan Cagan](https://www.meche.engineering.cmu.edu/directory/bios/cagan-jonathan.html), from [the Integrated Design Innovation Group (IDIG)](https://www.cmu.edu/me/idig/) at Carnegie Mellon University.
 
@@ -18,5 +18,6 @@ The paper could also be accessed through the author's ResearchGate page ([link](
 
 ## License
 GPUGO is freely available for academic or non-profit organizations' noncommercial research only. Please check [the license file](https://github.com/CMU-Integrated-Design-Innovation-Group/GPUGO/blob/main/LICENSE) for further details. If you are interested in a commercial license, please contact [CMU Center for Technology Transfer and Enterprise Creation](https://www.cmu.edu/cttec/contact-us/index.html) at **innovation@cmu.edu**.
+
 
 
