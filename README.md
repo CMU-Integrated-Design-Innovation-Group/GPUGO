@@ -14,7 +14,7 @@ Please cite the following paper in your publications if the GPUGO project helps 
 
 Zhang, G., Shan, Q., & Cagan, J. (2026). Global optimization tailored for graphics processing units: Complete and rigorous search for large-scale nonlinear minimization. PNAS Nexus, 5(4), pp. pgag103. https://doi.org/10.1093/pnasnexus/pgag103
 
-The paper could also be accessed through the author's ResearchGate page ([link](https://www.researchgate.net/publication/403474650_Global_optimization_tailored_for_graphics_processing_units_Complete_and_rigorous_search_for_large-scale_nonlinear_minimization).
+The paper could also be accessed through the author's ResearchGate page ([link](https://www.researchgate.net/publication/403474650_Global_optimization_tailored_for_graphics_processing_units_Complete_and_rigorous_search_for_large-scale_nonlinear_minimization)).
 
 ## License
 GPUGO is freely available for academic or non-profit organizations' noncommercial research only. Please check [the license file](https://github.com/CMU-Integrated-Design-Innovation-Group/GPUGO/blob/main/LICENSE) for further details. If you are interested in a commercial license, please contact [CMU Center for Technology Transfer and Enterprise Creation](https://www.cmu.edu/cttec/contact-us/index.html) at **innovation@cmu.edu**.
