@@ -2,6 +2,11 @@ The GPUGO project provides the Python source code to implement **a GPU-based glo
 
 The GPUGO project is authored by [Qihang Shan](https://www.linkedin.com/in/qihang-shan-487615227), [Guanglu Zhang](https://www.researchgate.net/profile/Guanglu-Zhang), and [Jonathan Cagan](https://www.meche.engineering.cmu.edu/directory/bios/cagan-jonathan.html), from [the Integrated Design Innovation Group (IDIG)](https://www.cmu.edu/me/idig/) at Carnegie Mellon University.
 
+## Contents
+The "GPUGO_1.1" folder includes the Python source code of the GPU-based global optimization method to minimize the 11 benchmark test functions. Each subfolder corresponds to one benchmark test function. An old version of related interval arithmetic operations are included in each subfolder, and the computational results reported in the [PNAS Nexus paper](https://doi.org/10.1093/pnasnexus/pgag103) are based on the older version of interval arithmetic operations.
+
+The "Updated Interval Arithmetic Operations" folder includes the Python source code to implement an updated version of the commonly used interval arithmetic operations. By using the updated interval arithmetic operations, the GPU-based global optimization method can run around five times faster than the computational results reported in the [PNAS Nexus paper](https://doi.org/10.1093/pnasnexus/pgag103).
+
 ## Environment
 The Python scripts included in the folder “GPUGO_1.1” have been compiled and executed successfully in the following environment:
 - Python 3.13.2
