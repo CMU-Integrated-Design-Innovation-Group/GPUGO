@@ -28,7 +28,7 @@ FOR TECHNOLOGY TRANSFER AND ENTERPRISE CREATION AT INNOVATION@CMU.EDU.
 '''
 
 '''
-Python script "IA.py” implements the basic interval arithmetic operations
+Python script "IA.py” implements ten basic interval arithmetic operations
 on GPU-based devices for interval evaluation.
 
 As stated in the NVIDIA white paper [1], floating point data in CUDA-enabled 
